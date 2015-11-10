@@ -1,3 +1,5 @@
+//every and then some form EJS
+
 function every(array, test){
   	var returnVal = true;
 	array.forEach(function (element, index){
